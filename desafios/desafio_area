@@ -1,0 +1,7 @@
+// pi * raio * raio
+// pi = 3.141592
+
+let raio = 5;
+
+let area = Math.PI * raio * raio;
+console.log ("O valor da área é de "+ area.toFixed(2)+ "m²");
