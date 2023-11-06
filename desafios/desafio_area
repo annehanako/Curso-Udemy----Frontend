@@ -1,5 +1,5 @@
 // pi * raio * raio
-// pi = 3.141592
+
 
 let raio = 5;
 

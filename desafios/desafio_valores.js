@@ -6,3 +6,4 @@ let b = 2;
 console.log ("A:",a, 
 "\nB:", b);
 
+// substituir um valor pelo outro
